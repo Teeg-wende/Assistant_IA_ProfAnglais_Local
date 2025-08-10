@@ -124,5 +124,5 @@ Tu peux l’utiliser, le modifier et le redistribuer librement.
 
 - [Mistral AI](https://mistral.ai/) pour le modèle
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) pour l’inférence CPU/GPU
-- [Google Speech Recognition](https://pypi.org/project/SpeechRecognition/) pour la transcription
-- [gTTS](https://pypi.org/project/gTTS/) pour la synthèse vocale
+- [Anthony Zhang](https://pypi.org/project/SpeechRecognition/) pour la transcription
+- [Pierre Nicolas](https://pypi.org/project/gTTS/) pour la synthèse vocale
