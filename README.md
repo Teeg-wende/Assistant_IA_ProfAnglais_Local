@@ -39,10 +39,22 @@ pip install -r requirements.txt
 
 **Exemple de `requirements.txt` :**
 ```
-pyaudio
-SpeechRecognition
-gTTS
-llama-cpp-python
+certifi==2025.8.3
+charset-normalizer==3.4.3
+click==8.1.8
+diskcache==5.6.3
+gTTS==2.5.4
+idna==3.10
+Jinja2==3.1.6
+llama_cpp_python==0.3.15
+MarkupSafe==3.0.2
+numpy==2.2.6
+PyAudio==0.2.14
+requests==2.32.4
+SpeechRecognition==3.14.3
+typing_extensions==4.14.1
+urllib3==2.5.0
+
 ```
 
 ⚠️ Sur Linux, il faut installer les dépendances système pour PyAudio :
