@@ -21,7 +21,7 @@ Il peut agir soit comme **professeur d'anglais**, soit comme **ami francophone**
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://git@github.com:Teeg-wende/Assistant_IA_ProfAnglais_Local.git
+git clone https://github.com/Teeg-wende/Assistant_IA_ProfAnglais_Local.git
 cd Assistant_IA_ProfAnglais_Local
 ```
 
