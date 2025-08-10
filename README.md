@@ -74,7 +74,7 @@ Arborescence :
 
 Lance le script principal :
 ```bash
-python assistant.py
+python3 assistant.py
 ```
 
 Fonctionnement :
